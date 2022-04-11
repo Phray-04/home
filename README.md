@@ -25,3 +25,9 @@
   - pygame ： 飞机大战
   - numpy & matplotlib  ： 雨教务
 
+
+### 优秀的GitHub作者
+
+- [JonyYu](https://github.com/forthealllight)
+- 
+
