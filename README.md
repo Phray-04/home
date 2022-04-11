@@ -7,7 +7,7 @@
 
 ### 文章
 
-- [GitHub使用方法](https://github.com/Phray-04/home/issues)
+- [GitHub/Git的使用方法](https://github.com/Phray-04/home/issues)
 - [Mrakdown GitHub Grammar](https://github.com/Phray-04/home/blob/main/Markdown%20GitHub%20grammar.md) : 在GitHub中的Markdown语法示例**精华版**文档
 - [ECS云服务器系统网站开发记录](https://github.com/Phray-04/Web_blog)
 - [Python知识总结](https://github.com/Phray-04/Python_Summarize)
